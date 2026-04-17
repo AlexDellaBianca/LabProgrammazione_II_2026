@@ -35,7 +35,7 @@ Alternativamente, potete anche scrivermi per fissare un appuntamento come ricevi
      -  Esercitazione
 
 - **Lezione 5** (17/04/2026):
-     -  Distribuzioni, Matplotlib Seaborn e ancora un po' di Pandas | [materiale_lezione](materiale_lezioni/Lezione5)
+     -  Distribuzioni, Matplotlib e Seaborn | [materiale_lezione](materiale_lezioni/Lezione5)
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
